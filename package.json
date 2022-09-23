@@ -1,0 +1,22 @@
+{
+  "name": "@apeswapCrypto/token-lists",
+  "version": "1.0.315",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lists"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/attractiveDev/ape-tokenLists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attractiveDev/ape-tokenLists.git/issues"
+  },
+  "homepage": "https://github.com/attractiveDev/ape-tokenLists.git#readme"
+}
